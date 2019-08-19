@@ -1,0 +1,138 @@
+BIBLIOGRAFÍA DE FACIL ACCESO PARA EL PROYECTO.
+
+7.0. Bibliografía “RESUMEN”
+https://www.idae.es/uploads/documentos/documentos_11406_Guia_Practica_Energia_3ed_A2010_509f8287.pdf
+https://remicaserviciosenergeticos.es/blog/derroche-de-energia-electrica-en-el-hogar/
+
+7.1. Bibliografía “Capítulo 1”
+https://www.europapress.es/portaltic/gadgets/noticia-lg-proveedor-iot-lumi-asocian-desarrollar-hogar-inteligente-20190814112208.html
+https://es.wikipedia.org/wiki/Internet_de_las_cosas
+https://www2.deloitte.com/es/es/pages/technology/articles/IoT-internet-of-things.html
+https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-2538
+
+7.2. Bibliografía “Capítulo 2”
+
+7.2.1. Bibliografía apartado 2.1:
+https://www.elconfidencial.com/tecnologia/2015-07-13/mirubee-startup-factura-luz-electricidad_921948/
+https://es.wikipedia.org/wiki/Dom%C3%B3tica
+
+7.2.2. Bibliografía apartado 2.2:
+ ‘Blockchain. La revolución industrial de internet’ de Alexander Preukschat
+https://libroblockchain.com/consenso/
+https://es.wikipedia.org/wiki/Cadena_de_bloques
+https://economipedia.com/definiciones/cadena-de-bloques-blockchain.html
+https://academy.bit2me.com/que-es-cadena-de-bloques-blockchain/
+https://s1.aebanca.es/wp-content/uploads/2017/12/DLT-Blockchain-2-1.pdf
+https://www.blockchain.com/btc/orphaned-blocks
+
+7.2.2.1. Características generales:
+https://en.wikipedia.org/wiki/Distributed_ledger
+https://www.derechoyfinanzas.org/dlt-blockchain-y-ccp-beneficios-y-riesgos/
+https://es.wikipedia.org/wiki/Sistema_de_prueba_de_trabajo
+https://cointelegraph.com/explained/blockchains-scaling-problem-explained
+https://es.cointelegraph.com/news/scalability-study-dlt-can-support-daily-trading-volume-of-us-equity-market
+Distributed Ledger Technology (DLT): Introduction – José Luis Romero Ugarte
+https://www.criptonoticias.com/criptopedia/que-es-bifurcacion-fork-soft-hard-blockchain/
+https://es.wikipedia.org/wiki/Criptograf%C3%ADa_asim%C3%A9trica
+https://blog.daglabs.com/an-introduction-to-the-blockdag-paradigm-50027f44facb
+https://personales.unican.es/gomezd/teaching/algs/ciclos.html
+https://www.paradigmadigital.com/dev/iota/
+https://tecnologia-facil.com/que-es/que-es-p2p/
+https://es.wikipedia.org/wiki/Peer-to-peer
+https://www.ibm.com/support/knowledgecenter/es/ssw_aix_72/network/tcpip_protocols.html
+https://bitcoin.org/en/blockchain-guide#introduction
+https://101blockchains.com/es/blockchain-vs-dag-vs-hashgraph-vs-holochain/
+https://bitinfocharts.com/
+https://steemit.com/hashgraph/@kallejo/hashgraph-la-nueva-blockchain-explicacion-y-razonamientos
+
+7.2.2.2. Comparación entre redes:
+https://coin360.com/?display=coins
+
+7.3. Bibliografía “Capítulo 3”
+
+7.3.1. Bibliografía apartado 3.1:
+	7.3.1.1. Bibliografía apartado 3.1.1
+https://es.wikipedia.org/wiki/Raspberry_Pi
+https://en.wikipedia.org/wiki/Asus_Tinker_Board
+https://wiki.pine64.org/index.php/ROCKPro64_Software_Release
+https://es.wikipedia.org/wiki/System_on_a_chip
+https://www.cl.cam.ac.uk/teaching/1415/SysOnChip/SP1-intro_and_socparts/zhp64d265411.html
+http://www.mosaic-industries.com/embedded-systems/microcontroller-projects/raspberry-pi/gpio-pin-electrical-specifications
+https://www.programoergosum.com/cursos-online/raspberry-pi/238-control-de-gpio-con-python-en-raspberry-pi/que-es-gpio
+http://exploringrpi.com/chapter6/
+
+	7.3.1.2. Bibliografía apartado 3.1.2
+https://www.microsoft.com/es-es/WindowsForBusiness/windows-iot
+https://www.raspberrypi.org/forums/viewforum.php?f=105
+https://developer.microsoft.com/en-us/windows/iot/Community
+https://es.wikipedia.org/wiki/Raspbian
+https://es.wikipedia.org/wiki/GNU/Linux
+https://es.wikipedia.org/wiki/Unix
+
+	7.3.1.3. Bibliografía apartado 3.1.3
+http://www.mclibre.org/consultar/python/otros/python-idle.html
+https://tutorial.recursospython.com/libreria-estandar/
+https://pyserial.readthedocs.io/en/latest/shortintro.html
+
+7.3.2. Bibliografía apartado 3.2:
+	7.3.2.1. Bibliografía apartado 3.2.1
+https://naylampmechatronics.com/blog/51_tutorial-sensor-de-corriente-ac-no-invasivo-s.html
+https://www.luisllamas.es/arduino-sensor-corriente-sct-013/
+https://learn.openenergymonitor.org/electricity-monitoring/ct-sensors/introduction
+
+	7.3.2.2. Bibliografía apartado 3.2.2
+http://lechacal.com/wiki/index.php/RPICT3V1
+http://lechacal.com/wiki/index.php?title=Attiny_Over_Serial_Configuration_A2
+http://lechacal.com/wiki/index.php?title=Calibration_VCAL_ICAL_PHASECAL
+http://lechacal.com/wiki/index.php?title=Burden_Resistor_calculation
+
+7.3.3. Bibliografía apartado 3.3:
+	7.3.3.1. Bibliografía apartado 3.3.1
+https://guide.openenergymonitor.org/technical/mqtt/
+https://en.wikipedia.org/wiki/Machine_to_machine
+https://redesteleco.com/tcp-ip/
+	
+	7.3.3.2. Bibliografía apartado 3.3.2
+https://en.wikipedia.org/wiki/MQTT
+https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+https://en.wikipedia.org/wiki/Message_broker
+https://mosquitto.org/man/mqtt-7.html 
+https://www.hivemq.com/mqtt-security-fundamentals/ 
+https://www.hivemq.com/blog/mqtt-essentials-wrap-up/ 
+https://www.websecurity.symantec.com/es/es/security-topics/what-is-ssl-tls-https 
+http://www.steves-internet-guide.com/mqtt-hosting-brokers-and-servers/
+http://mqtt.org/documentation
+https://pypi.org/project/paho-mqtt/#usage-and-api
+https://github.com/mqtt/mqtt.github.io/wiki
+https://mosquitto.org/man/mosquitto-conf-5.html
+http://pdacontroles.com/instalacion-de-mosquitto-broker-mqtt-en/
+
+	7.3.3.3. Bibliografía apartado 3.3.3
+https://www.redeszone.net/2010/11/16/criptografia-algoritmos-de-cifrado-de-clave-asimetrica/
+https://www.redeszone.net/2010/11/09/criptografia-algoritmos-de-autenticacion-hash/?utm_source=related_posts&utm_medium=manual
+https://es.wikipedia.org/wiki/RSA
+https://pypi.org/project/pycrypto/
+https://es.wikipedia.org/wiki/PKCS
+https://pycryptodome.readthedocs.io/en/latest/src/public_key/rsa.html
+https://pycryptodome.readthedocs.io/en/latest/src/cipher/oaep.html
+
+7.3.4. Bibliografía apartado 3.4:
+https://iotasupport.com/whatisiota_es.shtml
+https://www.mobilefish.com/developer/iota/iota_quickguide_tutorial.html
+https://docs.iota.org/docs/
+	7.3.4.1. Bibliografía apartado 3.4.1
+https://es.wikipedia.org/wiki/IOTA_(protocolo)
+https://www.iota.org/get-started/what-is-iota
+	7.3.4.2. Bibliografía apartado 3.4.2
+https://buildmedia.readthedocs.org/media/pdf/pyota/develop/pyota.pdf
+
+7.4. Bibliografía “Capítulo 5
+https://www.mobilefish.com/developer/iota/iota_quickguide_tutorial.html
+
+7.5. Bibliografía “Capítulo 6”
+https://www.amazon.es/Raspberry-Pi-Modelo-Quad-Core-Cortex-A53/dp/B01CD5VC92
+http://lechacalshop.com/gb/internetofthing/20-raspberrypi-1x-current-sensor-adaptor-1-voltage-emoncms.html
+http://lechacalshop.com/gb/internetofthing/24-acac-adaptor-voltage-sensor-for-rpict-series.html
+http://lechacalshop.com/gb/internetofthing/16-sct-013-000-with-quality-jack-connector-emoncms-emonwrt.html
+https://www.idae.es/estudios-informes-y-estadisticas
+
