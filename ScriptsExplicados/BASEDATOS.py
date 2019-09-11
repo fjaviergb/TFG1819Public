@@ -377,7 +377,7 @@ def main():
                 #ANNO, MES, DIA, HORA Y SEGUNDO PARA FACILITAR EL INPUT DEL 
                 #LIMITE INFERIOR.
         
-        lista_timestamp_interv(upper_fecha, lower_fecha, hashes)
+        lista_timestamp_interv(api,upper_fecha, lower_fecha, hashes)
         #LLAMADA A LA FUNCION lista_timestamp_interv PASANDOLE COMO INPUTS EL 
         #ACCESO AL NODO ESPECIFICADO, LAS FECHAS LIMITES Y EL LISTADO DE HASHES
         #DE LA DIRECCION ESPECIFICADA.
